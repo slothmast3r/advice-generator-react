@@ -9,5 +9,7 @@
   background: var(--dark-grayish-blue);
   min-width: 100vw;
   min-height: 100vh;
+  display: grid;
+  place-content: center;
 }
 
